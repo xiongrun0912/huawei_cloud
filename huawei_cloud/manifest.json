@@ -1,0 +1,12 @@
+{
+  "domain": "huawei_cloud",
+  "name": "华为云服务",
+  "documentation": "https://github.com/xiongrun0912/huawei_cloud",
+  "issue_tracker": "https://github.com/xiongrun0912/huawei_cloud/issues",
+  "dependencies": [],
+  "iot_class": "cloud_polling",
+  "version": "1.0",
+  "config_flow": true,
+  "codeowners": ["@wuxin"],
+  "requirements": ["selenium", "webdriver_manager", "ahttp"]
+}
